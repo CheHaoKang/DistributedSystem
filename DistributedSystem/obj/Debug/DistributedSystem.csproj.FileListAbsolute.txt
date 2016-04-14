@@ -1,0 +1,8 @@
+E:\Dropbox\PROGRAMS\Workspace_C#\DistributedSystem\DistributedSystem\bin\Debug\DistributedSystem.exe.config
+E:\Dropbox\PROGRAMS\Workspace_C#\DistributedSystem\DistributedSystem\obj\Debug\DistributedSystem.csprojResolveAssemblyReference.cache
+E:\Dropbox\PROGRAMS\Workspace_C#\DistributedSystem\DistributedSystem\bin\Debug\DistributedSystem.exe
+E:\Dropbox\PROGRAMS\Workspace_C#\DistributedSystem\DistributedSystem\bin\Debug\DistributedSystem.pdb
+E:\Dropbox\PROGRAMS\Workspace_C#\DistributedSystem\DistributedSystem\bin\Debug\CookComputing.XmlRpcServerV2.dll
+E:\Dropbox\PROGRAMS\Workspace_C#\DistributedSystem\DistributedSystem\bin\Debug\CookComputing.XmlRpcV2.dll
+E:\Dropbox\PROGRAMS\Workspace_C#\DistributedSystem\DistributedSystem\obj\Debug\DistributedSystem.exe
+E:\Dropbox\PROGRAMS\Workspace_C#\DistributedSystem\DistributedSystem\obj\Debug\DistributedSystem.pdb
